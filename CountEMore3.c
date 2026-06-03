@@ -13,7 +13,7 @@ void main()
 		r=i%10;
 		if(r%2!=0)
 		{
-			if(3<n)
+			if(r>n)
 			count++;
 		}
 	}
